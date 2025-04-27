@@ -1,0 +1,880 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_of_measure,current_age
+Afghanistan,AF,AFG,4,Labour force unemployment rate,2019,14.0,Female,%,15 years old and over
+Afghanistan,AF,AFG,4,Labour force unemployment rate,2021,6.0,Female,%,15 years old and over
+Afghanistan,AF,AFG,4,Labour force unemployment rate,2019,10.0,Male,%,15 years old and over
+Afghanistan,AF,AFG,4,Labour force unemployment rate,2021,6.0,Male,%,15 years old and over
+Afghanistan,AF,AFG,4,Labour force unemployment rate,2019,11.0,Total,%,15 years old and over
+Afghanistan,AF,AFG,4,Labour force unemployment rate,2021,6.0,Total,%,15 years old and over
+Albania,AL,ALB,8,Labour force unemployment rate,2019,11.0,Female,%,15 years old and over
+Albania,AL,ALB,8,Labour force unemployment rate,2019,12.0,Male,%,15 years old and over
+Albania,AL,ALB,8,Labour force unemployment rate,2019,12.0,Total,%,15 years old and over
+Algeria,DZ,DZA,12,Labour force unemployment rate,2019,20.0,Female,%,15 years old and over
+Algeria,DZ,DZA,12,Labour force unemployment rate,2019,10.0,Male,%,15 years old and over
+Algeria,DZ,DZA,12,Labour force unemployment rate,2019,12.0,Total,%,15 years old and over
+Angola,AO,AGO,24,Labour force unemployment rate,2019,7.0,Female,%,15 years old and over
+Angola,AO,AGO,24,Labour force unemployment rate,2021,16.0,Female,%,15 years old and over
+Angola,AO,AGO,24,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+Angola,AO,AGO,24,Labour force unemployment rate,2021,16.0,Male,%,15 years old and over
+Angola,AO,AGO,24,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Angola,AO,AGO,24,Labour force unemployment rate,2021,16.0,Total,%,15 years old and over
+Argentina,AR,ARG,32,Labour force unemployment rate,2019,11.0,Female,%,15 years old and over
+Argentina,AR,ARG,32,Labour force unemployment rate,2019,9.0,Male,%,15 years old and over
+Argentina,AR,ARG,32,Labour force unemployment rate,2019,10.0,Total,%,15 years old and over
+Armenia,AM,ARM,51,Labour force unemployment rate,2019,20.0,Female,%,15 years old and over
+Armenia,AM,ARM,51,Labour force unemployment rate,2021,9.0,Female,%,15 years old and over
+Armenia,AM,ARM,51,Labour force unemployment rate,2019,18.0,Male,%,15 years old and over
+Armenia,AM,ARM,51,Labour force unemployment rate,2021,8.0,Male,%,15 years old and over
+Armenia,AM,ARM,51,Labour force unemployment rate,2019,19.0,Total,%,15 years old and over
+Armenia,AM,ARM,51,Labour force unemployment rate,2021,8.0,Total,%,15 years old and over
+Australia,AU,AUS,36,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Australia,AU,AUS,36,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Australia,AU,AUS,36,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Australia,AU,AUS,36,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+Australia,AU,AUS,36,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Australia,AU,AUS,36,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+Austria,AT,AUT,40,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Austria,AT,AUT,40,Labour force unemployment rate,2023,5.0,Female,%,15 years old and over
+Austria,AT,AUT,40,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Austria,AT,AUT,40,Labour force unemployment rate,2023,5.0,Male,%,15 years old and over
+Austria,AT,AUT,40,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Austria,AT,AUT,40,Labour force unemployment rate,2023,5.0,Total,%,15 years old and over
+Azerbaijan,AZ,AZE,31,Labour force unemployment rate,2019,6.0,Female,%,15 years old and over
+Azerbaijan,AZ,AZE,31,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Azerbaijan,AZ,AZE,31,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Bahamas,BS,BHS,44,Labour force unemployment rate,2019,10.0,Female,%,15 years old and over
+Bahamas,BS,BHS,44,Labour force unemployment rate,2023,13.0,Female,%,15 years old and over
+Bahamas,BS,BHS,44,Labour force unemployment rate,2019,10.0,Male,%,15 years old and over
+Bahamas,BS,BHS,44,Labour force unemployment rate,2023,9.0,Male,%,15 years old and over
+Bahamas,BS,BHS,44,Labour force unemployment rate,2019,10.0,Total,%,15 years old and over
+Bahamas,BS,BHS,44,Labour force unemployment rate,2023,11.0,Total,%,15 years old and over
+Bahrain,BH,BHR,48,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Bahrain,BH,BHR,48,Labour force unemployment rate,2019,1.0,Male,%,15 years old and over
+Bahrain,BH,BHR,48,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Bangladesh,BD,BGD,50,Labour force unemployment rate,2019,7.0,Female,%,15 years old and over
+Bangladesh,BD,BGD,50,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Bangladesh,BD,BGD,50,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Barbados,BB,BRB,52,Labour force unemployment rate,2019,10.0,Female,%,15 years old and over
+Barbados,BB,BRB,52,Labour force unemployment rate,2019,10.0,Male,%,15 years old and over
+Barbados,BB,BRB,52,Labour force unemployment rate,2019,10.0,Total,%,15 years old and over
+Belarus,BY,BLR,112,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Belarus,BY,BLR,112,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+Belarus,BY,BLR,112,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Belarus,BY,BLR,112,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+Belarus,BY,BLR,112,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Belarus,BY,BLR,112,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+Belgium,BE,BEL,56,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Belgium,BE,BEL,56,Labour force unemployment rate,2023,5.0,Female,%,15 years old and over
+Belgium,BE,BEL,56,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Belgium,BE,BEL,56,Labour force unemployment rate,2023,6.0,Male,%,15 years old and over
+Belgium,BE,BEL,56,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Belgium,BE,BEL,56,Labour force unemployment rate,2023,6.0,Total,%,15 years old and over
+Belize,BZ,BLZ,84,Labour force unemployment rate,2019,10.0,Female,%,15 years old and over
+Belize,BZ,BLZ,84,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Belize,BZ,BLZ,84,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Benin,BJ,BEN,204,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Benin,BJ,BEN,204,Labour force unemployment rate,2022,1.0,Female,%,15 years old and over
+Benin,BJ,BEN,204,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Benin,BJ,BEN,204,Labour force unemployment rate,2022,2.0,Male,%,15 years old and over
+Benin,BJ,BEN,204,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Benin,BJ,BEN,204,Labour force unemployment rate,2022,2.0,Total,%,15 years old and over
+Bhutan,BT,BTN,64,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Bhutan,BT,BTN,64,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Bhutan,BT,BTN,64,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Bhutan,BT,BTN,64,Labour force unemployment rate,2023,2.0,Male,%,15 years old and over
+Bhutan,BT,BTN,64,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Bhutan,BT,BTN,64,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+"Bolivia, Plurinational State of",BO,BOL,68,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+"Bolivia, Plurinational State of",BO,BOL,68,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+"Bolivia, Plurinational State of",BO,BOL,68,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+"Bolivia, Plurinational State of",BO,BOL,68,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+"Bolivia, Plurinational State of",BO,BOL,68,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+"Bolivia, Plurinational State of",BO,BOL,68,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+Bosnia and Herzegovina,BA,BIH,70,Labour force unemployment rate,2019,19.0,Female,%,15 years old and over
+Bosnia and Herzegovina,BA,BIH,70,Labour force unemployment rate,2019,14.0,Male,%,15 years old and over
+Bosnia and Herzegovina,BA,BIH,70,Labour force unemployment rate,2019,16.0,Total,%,15 years old and over
+Botswana,BW,BWA,72,Labour force unemployment rate,2019,21.0,Female,%,15 years old and over
+Botswana,BW,BWA,72,Labour force unemployment rate,2019,14.0,Male,%,15 years old and over
+Botswana,BW,BWA,72,Labour force unemployment rate,2019,17.0,Total,%,15 years old and over
+Brazil,BR,BRA,76,Labour force unemployment rate,2019,14.0,Female,%,15 years old and over
+Brazil,BR,BRA,76,Labour force unemployment rate,2023,10.0,Female,%,15 years old and over
+Brazil,BR,BRA,76,Labour force unemployment rate,2019,10.0,Male,%,15 years old and over
+Brazil,BR,BRA,76,Labour force unemployment rate,2023,7.0,Male,%,15 years old and over
+Brazil,BR,BRA,76,Labour force unemployment rate,2019,12.0,Total,%,15 years old and over
+Brazil,BR,BRA,76,Labour force unemployment rate,2023,8.0,Total,%,15 years old and over
+Brunei,BN,BRN,96,Labour force unemployment rate,2019,8.0,Female,%,15 years old and over
+Brunei,BN,BRN,96,Labour force unemployment rate,2023,5.0,Female,%,15 years old and over
+Brunei,BN,BRN,96,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Brunei,BN,BRN,96,Labour force unemployment rate,2023,5.0,Male,%,15 years old and over
+Brunei,BN,BRN,96,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Brunei,BN,BRN,96,Labour force unemployment rate,2023,5.0,Total,%,15 years old and over
+Bulgaria,BG,BGR,100,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Bulgaria,BG,BGR,100,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Bulgaria,BG,BGR,100,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Bulgaria,BG,BGR,100,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+Bulgaria,BG,BGR,100,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Bulgaria,BG,BGR,100,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+Burkina Faso,BF,BFA,854,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Burkina Faso,BF,BFA,854,Labour force unemployment rate,2023,6.0,Female,%,15 years old and over
+Burkina Faso,BF,BFA,854,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Burkina Faso,BF,BFA,854,Labour force unemployment rate,2023,5.0,Male,%,15 years old and over
+Burkina Faso,BF,BFA,854,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Burkina Faso,BF,BFA,854,Labour force unemployment rate,2023,5.0,Total,%,15 years old and over
+Burundi,BI,BDI,108,Labour force unemployment rate,2019,1.0,Female,%,15 years old and over
+Burundi,BI,BDI,108,Labour force unemployment rate,2020,1.0,Female,%,15 years old and over
+Burundi,BI,BDI,108,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Burundi,BI,BDI,108,Labour force unemployment rate,2020,1.0,Male,%,15 years old and over
+Burundi,BI,BDI,108,Labour force unemployment rate,2019,1.0,Total,%,15 years old and over
+Burundi,BI,BDI,108,Labour force unemployment rate,2020,1.0,Total,%,15 years old and over
+Cape Verde,CV,CPV,132,Labour force unemployment rate,2019,12.0,Female,%,15 years old and over
+Cape Verde,CV,CPV,132,Labour force unemployment rate,2019,13.0,Male,%,15 years old and over
+Cape Verde,CV,CPV,132,Labour force unemployment rate,2019,12.0,Total,%,15 years old and over
+Cambodia,KH,KHM,116,Labour force unemployment rate,2019,0.0,Female,%,15 years old and over
+Cambodia,KH,KHM,116,Labour force unemployment rate,2021,0.0,Female,%,15 years old and over
+Cambodia,KH,KHM,116,Labour force unemployment rate,2019,0.0,Male,%,15 years old and over
+Cambodia,KH,KHM,116,Labour force unemployment rate,2021,0.0,Male,%,15 years old and over
+Cambodia,KH,KHM,116,Labour force unemployment rate,2019,0.0,Total,%,15 years old and over
+Cambodia,KH,KHM,116,Labour force unemployment rate,2021,0.0,Total,%,15 years old and over
+Cameroon,CM,CMR,120,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Cameroon,CM,CMR,120,Labour force unemployment rate,2021,4.0,Female,%,15 years old and over
+Cameroon,CM,CMR,120,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Cameroon,CM,CMR,120,Labour force unemployment rate,2021,2.0,Male,%,15 years old and over
+Cameroon,CM,CMR,120,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Cameroon,CM,CMR,120,Labour force unemployment rate,2021,3.0,Total,%,15 years old and over
+Canada,CA,CAN,124,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Canada,CA,CAN,124,Labour force unemployment rate,2020,9.0,Female,%,15 years old and over
+Canada,CA,CAN,124,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Canada,CA,CAN,124,Labour force unemployment rate,2020,10.0,Male,%,15 years old and over
+Canada,CA,CAN,124,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Canada,CA,CAN,124,Labour force unemployment rate,2020,10.0,Total,%,15 years old and over
+Central African Republic,CF,CAF,140,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Central African Republic,CF,CAF,140,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Central African Republic,CF,CAF,140,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Chad,TD,TCD,148,Labour force unemployment rate,2019,2.0,Female,%,15 years old and over
+Chad,TD,TCD,148,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Chad,TD,TCD,148,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Chile,CL,CHL,152,Labour force unemployment rate,2019,8.0,Female,%,15 years old and over
+Chile,CL,CHL,152,Labour force unemployment rate,2023,9.0,Female,%,15 years old and over
+Chile,CL,CHL,152,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+Chile,CL,CHL,152,Labour force unemployment rate,2023,9.0,Male,%,15 years old and over
+Chile,CL,CHL,152,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Chile,CL,CHL,152,Labour force unemployment rate,2023,9.0,Total,%,15 years old and over
+China,CN,CHN,156,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+China,CN,CHN,156,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+China,CN,CHN,156,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Colombia,CO,COL,170,Labour force unemployment rate,2019,13.0,Female,%,15 years old and over
+Colombia,CO,COL,170,Labour force unemployment rate,2023,12.0,Female,%,15 years old and over
+Colombia,CO,COL,170,Labour force unemployment rate,2019,8.0,Male,%,15 years old and over
+Colombia,CO,COL,170,Labour force unemployment rate,2023,8.0,Male,%,15 years old and over
+Colombia,CO,COL,170,Labour force unemployment rate,2019,10.0,Total,%,15 years old and over
+Colombia,CO,COL,170,Labour force unemployment rate,2023,10.0,Total,%,15 years old and over
+Comoros,KM,COM,174,Labour force unemployment rate,2019,10.0,Female,%,15 years old and over
+Comoros,KM,COM,174,Labour force unemployment rate,2021,5.0,Female,%,15 years old and over
+Comoros,KM,COM,174,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Comoros,KM,COM,174,Labour force unemployment rate,2021,4.0,Male,%,15 years old and over
+Comoros,KM,COM,174,Labour force unemployment rate,2019,8.0,Total,%,15 years old and over
+Comoros,KM,COM,174,Labour force unemployment rate,2021,4.0,Total,%,15 years old and over
+Congo,CG,COG,178,Labour force unemployment rate,2019,10.0,Female,%,15 years old and over
+Congo,CG,COG,178,Labour force unemployment rate,2019,9.0,Male,%,15 years old and over
+Congo,CG,COG,178,Labour force unemployment rate,2019,10.0,Total,%,15 years old and over
+Costa Rica,CR,CRI,188,Labour force unemployment rate,2019,15.0,Female,%,15 years old and over
+Costa Rica,CR,CRI,188,Labour force unemployment rate,2023,10.0,Female,%,15 years old and over
+Costa Rica,CR,CRI,188,Labour force unemployment rate,2019,9.0,Male,%,15 years old and over
+Costa Rica,CR,CRI,188,Labour force unemployment rate,2023,7.0,Male,%,15 years old and over
+Costa Rica,CR,CRI,188,Labour force unemployment rate,2019,12.0,Total,%,15 years old and over
+Costa Rica,CR,CRI,188,Labour force unemployment rate,2023,8.0,Total,%,15 years old and over
+Croatia,HR,HRV,191,Labour force unemployment rate,2019,7.0,Female,%,15 years old and over
+Croatia,HR,HRV,191,Labour force unemployment rate,2023,7.0,Female,%,15 years old and over
+Croatia,HR,HRV,191,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Croatia,HR,HRV,191,Labour force unemployment rate,2023,6.0,Male,%,15 years old and over
+Croatia,HR,HRV,191,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Croatia,HR,HRV,191,Labour force unemployment rate,2023,6.0,Total,%,15 years old and over
+Cuba,CU,CUB,192,Labour force unemployment rate,2019,2.0,Female,%,15 years old and over
+Cuba,CU,CUB,192,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Cuba,CU,CUB,192,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Cyprus,CY,CYP,196,Labour force unemployment rate,2019,8.0,Female,%,15 years old and over
+Cyprus,CY,CYP,196,Labour force unemployment rate,2023,6.0,Female,%,15 years old and over
+Cyprus,CY,CYP,196,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Cyprus,CY,CYP,196,Labour force unemployment rate,2023,6.0,Male,%,15 years old and over
+Cyprus,CY,CYP,196,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Cyprus,CY,CYP,196,Labour force unemployment rate,2023,6.0,Total,%,15 years old and over
+Czech Republic,CZ,CZE,203,Labour force unemployment rate,2019,2.0,Female,%,15 years old and over
+Czech Republic,CZ,CZE,203,Labour force unemployment rate,2022,3.0,Female,%,15 years old and over
+Czech Republic,CZ,CZE,203,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Czech Republic,CZ,CZE,203,Labour force unemployment rate,2022,2.0,Male,%,15 years old and over
+Czech Republic,CZ,CZE,203,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Czech Republic,CZ,CZE,203,Labour force unemployment rate,2022,2.0,Total,%,15 years old and over
+Ivory Coast,CI,CIV,384,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Ivory Coast,CI,CIV,384,Labour force unemployment rate,2022,3.0,Female,%,15 years old and over
+Ivory Coast,CI,CIV,384,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Ivory Coast,CI,CIV,384,Labour force unemployment rate,2022,2.0,Male,%,15 years old and over
+Ivory Coast,CI,CIV,384,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Ivory Coast,CI,CIV,384,Labour force unemployment rate,2022,2.0,Total,%,15 years old and over
+"Korea, Democratic People's Republic of",KP,PRK,408,Labour force unemployment rate,2019,2.0,Female,%,15 years old and over
+"Korea, Democratic People's Republic of",KP,PRK,408,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+"Korea, Democratic People's Republic of",KP,PRK,408,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+"Congo, the Democratic Republic of the",CD,COD,180,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+"Congo, the Democratic Republic of the",CD,COD,180,Labour force unemployment rate,2020,1.0,Female,%,15 years old and over
+"Congo, the Democratic Republic of the",CD,COD,180,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+"Congo, the Democratic Republic of the",CD,COD,180,Labour force unemployment rate,2020,2.0,Male,%,15 years old and over
+"Congo, the Democratic Republic of the",CD,COD,180,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+"Congo, the Democratic Republic of the",CD,COD,180,Labour force unemployment rate,2020,1.0,Total,%,15 years old and over
+Denmark,DK,DNK,208,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Denmark,DK,DNK,208,Labour force unemployment rate,2023,5.0,Female,%,15 years old and over
+Denmark,DK,DNK,208,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Denmark,DK,DNK,208,Labour force unemployment rate,2023,5.0,Male,%,15 years old and over
+Denmark,DK,DNK,208,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Denmark,DK,DNK,208,Labour force unemployment rate,2023,5.0,Total,%,15 years old and over
+Djibouti,DJ,DJI,262,Labour force unemployment rate,2019,11.0,Female,%,15 years old and over
+Djibouti,DJ,DJI,262,Labour force unemployment rate,2019,11.0,Male,%,15 years old and over
+Djibouti,DJ,DJI,262,Labour force unemployment rate,2019,11.0,Total,%,15 years old and over
+Dominican Republic,DO,DOM,214,Labour force unemployment rate,2019,10.0,Female,%,15 years old and over
+Dominican Republic,DO,DOM,214,Labour force unemployment rate,2023,8.0,Female,%,15 years old and over
+Dominican Republic,DO,DOM,214,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Dominican Republic,DO,DOM,214,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+Dominican Republic,DO,DOM,214,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Dominican Republic,DO,DOM,214,Labour force unemployment rate,2023,6.0,Total,%,15 years old and over
+Ecuador,EC,ECU,218,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Ecuador,EC,ECU,218,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Ecuador,EC,ECU,218,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Ecuador,EC,ECU,218,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+Ecuador,EC,ECU,218,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Ecuador,EC,ECU,218,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+Egypt,EG,EGY,818,Labour force unemployment rate,2019,21.0,Female,%,15 years old and over
+Egypt,EG,EGY,818,Labour force unemployment rate,2022,19.0,Female,%,15 years old and over
+Egypt,EG,EGY,818,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+Egypt,EG,EGY,818,Labour force unemployment rate,2022,5.0,Male,%,15 years old and over
+Egypt,EG,EGY,818,Labour force unemployment rate,2019,10.0,Total,%,15 years old and over
+Egypt,EG,EGY,818,Labour force unemployment rate,2022,7.0,Total,%,15 years old and over
+El Salvador,SV,SLV,222,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+El Salvador,SV,SLV,222,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+El Salvador,SV,SLV,222,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+El Salvador,SV,SLV,222,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+El Salvador,SV,SLV,222,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+El Salvador,SV,SLV,222,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+Equatorial Guinea,GQ,GNQ,226,Labour force unemployment rate,2019,8.0,Female,%,15 years old and over
+Equatorial Guinea,GQ,GNQ,226,Labour force unemployment rate,2019,8.0,Male,%,15 years old and over
+Equatorial Guinea,GQ,GNQ,226,Labour force unemployment rate,2019,8.0,Total,%,15 years old and over
+Eritrea,ER,ERI,232,Labour force unemployment rate,2019,7.0,Female,%,15 years old and over
+Eritrea,ER,ERI,232,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Eritrea,ER,ERI,232,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Estonia,EE,EST,233,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Estonia,EE,EST,233,Labour force unemployment rate,2023,7.0,Female,%,15 years old and over
+Estonia,EE,EST,233,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Estonia,EE,EST,233,Labour force unemployment rate,2023,6.0,Male,%,15 years old and over
+Estonia,EE,EST,233,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Estonia,EE,EST,233,Labour force unemployment rate,2023,6.0,Total,%,15 years old and over
+Swaziland,SZ,SWZ,748,Labour force unemployment rate,2019,24.0,Female,%,15 years old and over
+Swaziland,SZ,SWZ,748,Labour force unemployment rate,2021,35.0,Female,%,15 years old and over
+Swaziland,SZ,SWZ,748,Labour force unemployment rate,2019,21.0,Male,%,15 years old and over
+Swaziland,SZ,SWZ,748,Labour force unemployment rate,2021,33.0,Male,%,15 years old and over
+Swaziland,SZ,SWZ,748,Labour force unemployment rate,2019,22.0,Total,%,15 years old and over
+Swaziland,SZ,SWZ,748,Labour force unemployment rate,2021,34.0,Total,%,15 years old and over
+Ethiopia,ET,ETH,231,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Ethiopia,ET,ETH,231,Labour force unemployment rate,2021,5.0,Female,%,15 years old and over
+Ethiopia,ET,ETH,231,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Ethiopia,ET,ETH,231,Labour force unemployment rate,2021,3.0,Male,%,15 years old and over
+Ethiopia,ET,ETH,231,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Ethiopia,ET,ETH,231,Labour force unemployment rate,2021,4.0,Total,%,15 years old and over
+Fiji,FJ,FJI,242,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Fiji,FJ,FJI,242,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Fiji,FJ,FJI,242,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Finland,FI,FIN,246,Labour force unemployment rate,2019,6.0,Female,%,15 years old and over
+Finland,FI,FIN,246,Labour force unemployment rate,2023,6.0,Female,%,15 years old and over
+Finland,FI,FIN,246,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+Finland,FI,FIN,246,Labour force unemployment rate,2023,8.0,Male,%,15 years old and over
+Finland,FI,FIN,246,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Finland,FI,FIN,246,Labour force unemployment rate,2023,7.0,Total,%,15 years old and over
+France,FR,FRA,250,Labour force unemployment rate,2019,8.0,Female,%,15 years old and over
+France,FR,FRA,250,Labour force unemployment rate,2023,7.0,Female,%,15 years old and over
+France,FR,FRA,250,Labour force unemployment rate,2019,9.0,Male,%,15 years old and over
+France,FR,FRA,250,Labour force unemployment rate,2023,7.0,Male,%,15 years old and over
+France,FR,FRA,250,Labour force unemployment rate,2019,8.0,Total,%,15 years old and over
+France,FR,FRA,250,Labour force unemployment rate,2023,7.0,Total,%,15 years old and over
+Gabon,GA,GAB,266,Labour force unemployment rate,2019,28.0,Female,%,15 years old and over
+Gabon,GA,GAB,266,Labour force unemployment rate,2019,14.0,Male,%,15 years old and over
+Gabon,GA,GAB,266,Labour force unemployment rate,2019,20.0,Total,%,15 years old and over
+Gambia,GM,GMB,270,Labour force unemployment rate,2019,12.0,Female,%,15 years old and over
+Gambia,GM,GMB,270,Labour force unemployment rate,2023,6.0,Female,%,15 years old and over
+Gambia,GM,GMB,270,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+Gambia,GM,GMB,270,Labour force unemployment rate,2023,7.0,Male,%,15 years old and over
+Gambia,GM,GMB,270,Labour force unemployment rate,2019,9.0,Total,%,15 years old and over
+Gambia,GM,GMB,270,Labour force unemployment rate,2023,6.0,Total,%,15 years old and over
+Georgia,GE,GEO,268,Labour force unemployment rate,2019,10.0,Female,%,15 years old and over
+Georgia,GE,GEO,268,Labour force unemployment rate,2020,10.0,Female,%,15 years old and over
+Georgia,GE,GEO,268,Labour force unemployment rate,2019,13.0,Male,%,15 years old and over
+Georgia,GE,GEO,268,Labour force unemployment rate,2020,13.0,Male,%,15 years old and over
+Georgia,GE,GEO,268,Labour force unemployment rate,2019,12.0,Total,%,15 years old and over
+Georgia,GE,GEO,268,Labour force unemployment rate,2020,12.0,Total,%,15 years old and over
+Germany,DE,DEU,276,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Germany,DE,DEU,276,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+Germany,DE,DEU,276,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Germany,DE,DEU,276,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+Germany,DE,DEU,276,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Germany,DE,DEU,276,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+Ghana,GH,GHA,288,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Ghana,GH,GHA,288,Labour force unemployment rate,2022,3.0,Female,%,15 years old and over
+Ghana,GH,GHA,288,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Ghana,GH,GHA,288,Labour force unemployment rate,2022,3.0,Male,%,15 years old and over
+Ghana,GH,GHA,288,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Ghana,GH,GHA,288,Labour force unemployment rate,2022,3.0,Total,%,15 years old and over
+Greece,GR,GRC,300,Labour force unemployment rate,2019,22.0,Female,%,15 years old and over
+Greece,GR,GRC,300,Labour force unemployment rate,2023,14.0,Female,%,15 years old and over
+Greece,GR,GRC,300,Labour force unemployment rate,2019,14.0,Male,%,15 years old and over
+Greece,GR,GRC,300,Labour force unemployment rate,2023,8.0,Male,%,15 years old and over
+Greece,GR,GRC,300,Labour force unemployment rate,2019,17.0,Total,%,15 years old and over
+Greece,GR,GRC,300,Labour force unemployment rate,2023,11.0,Total,%,15 years old and over
+Guatemala,GT,GTM,320,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Guatemala,GT,GTM,320,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+Guatemala,GT,GTM,320,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Guatemala,GT,GTM,320,Labour force unemployment rate,2023,2.0,Male,%,15 years old and over
+Guatemala,GT,GTM,320,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Guatemala,GT,GTM,320,Labour force unemployment rate,2023,2.0,Total,%,15 years old and over
+Guinea,GN,GIN,324,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Guinea,GN,GIN,324,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Guinea,GN,GIN,324,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Guinea-Bissau,GW,GNB,624,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Guinea-Bissau,GW,GNB,624,Labour force unemployment rate,2022,2.0,Female,%,15 years old and over
+Guinea-Bissau,GW,GNB,624,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Guinea-Bissau,GW,GNB,624,Labour force unemployment rate,2022,3.0,Male,%,15 years old and over
+Guinea-Bissau,GW,GNB,624,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Guinea-Bissau,GW,GNB,624,Labour force unemployment rate,2022,3.0,Total,%,15 years old and over
+Guyana,GY,GUY,328,Labour force unemployment rate,2019,17.0,Female,%,15 years old and over
+Guyana,GY,GUY,328,Labour force unemployment rate,2019,12.0,Male,%,15 years old and over
+Guyana,GY,GUY,328,Labour force unemployment rate,2019,14.0,Total,%,15 years old and over
+Haiti,HT,HTI,332,Labour force unemployment rate,2019,16.0,Female,%,15 years old and over
+Haiti,HT,HTI,332,Labour force unemployment rate,2019,11.0,Male,%,15 years old and over
+Haiti,HT,HTI,332,Labour force unemployment rate,2019,14.0,Total,%,15 years old and over
+Honduras,HN,HND,340,Labour force unemployment rate,2019,7.0,Female,%,15 years old and over
+Honduras,HN,HND,340,Labour force unemployment rate,2023,9.0,Female,%,15 years old and over
+Honduras,HN,HND,340,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Honduras,HN,HND,340,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+Honduras,HN,HND,340,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Honduras,HN,HND,340,Labour force unemployment rate,2023,6.0,Total,%,15 years old and over
+Hungary,HU,HUN,348,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Hungary,HU,HUN,348,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Hungary,HU,HUN,348,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Hungary,HU,HUN,348,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+Hungary,HU,HUN,348,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Hungary,HU,HUN,348,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+Iceland,IS,ISL,352,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Iceland,IS,ISL,352,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+Iceland,IS,ISL,352,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Iceland,IS,ISL,352,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+Iceland,IS,ISL,352,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Iceland,IS,ISL,352,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+India,IN,IND,356,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+India,IN,IND,356,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+India,IN,IND,356,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+India,IN,IND,356,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+India,IN,IND,356,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+India,IN,IND,356,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+Indonesia,ID,IDN,360,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Indonesia,ID,IDN,360,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+Indonesia,ID,IDN,360,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Indonesia,ID,IDN,360,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+Indonesia,ID,IDN,360,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Indonesia,ID,IDN,360,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+"Iran, Islamic Republic of",IR,IRN,364,Labour force unemployment rate,2019,18.0,Female,%,15 years old and over
+"Iran, Islamic Republic of",IR,IRN,364,Labour force unemployment rate,2019,10.0,Male,%,15 years old and over
+"Iran, Islamic Republic of",IR,IRN,364,Labour force unemployment rate,2019,11.0,Total,%,15 years old and over
+Iraq,IQ,IRQ,368,Labour force unemployment rate,2019,31.0,Female,%,15 years old and over
+Iraq,IQ,IRQ,368,Labour force unemployment rate,2021,28.0,Female,%,15 years old and over
+Iraq,IQ,IRQ,368,Labour force unemployment rate,2019,10.0,Male,%,15 years old and over
+Iraq,IQ,IRQ,368,Labour force unemployment rate,2021,14.0,Male,%,15 years old and over
+Iraq,IQ,IRQ,368,Labour force unemployment rate,2019,13.0,Total,%,15 years old and over
+Iraq,IQ,IRQ,368,Labour force unemployment rate,2021,16.0,Total,%,15 years old and over
+Ireland,IE,IRL,372,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Ireland,IE,IRL,372,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Ireland,IE,IRL,372,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Ireland,IE,IRL,372,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+Ireland,IE,IRL,372,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Ireland,IE,IRL,372,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+Israel,IL,ISR,376,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Israel,IL,ISR,376,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Israel,IL,ISR,376,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Italy,IT,ITA,380,Labour force unemployment rate,2019,11.0,Female,%,15 years old and over
+Italy,IT,ITA,380,Labour force unemployment rate,2023,9.0,Female,%,15 years old and over
+Italy,IT,ITA,380,Labour force unemployment rate,2019,9.0,Male,%,15 years old and over
+Italy,IT,ITA,380,Labour force unemployment rate,2023,7.0,Male,%,15 years old and over
+Italy,IT,ITA,380,Labour force unemployment rate,2019,10.0,Total,%,15 years old and over
+Italy,IT,ITA,380,Labour force unemployment rate,2023,8.0,Total,%,15 years old and over
+Jamaica,JM,JAM,388,Labour force unemployment rate,2019,10.0,Female,%,15 years old and over
+Jamaica,JM,JAM,388,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Jamaica,JM,JAM,388,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Jamaica,JM,JAM,388,Labour force unemployment rate,2023,2.0,Male,%,15 years old and over
+Jamaica,JM,JAM,388,Labour force unemployment rate,2019,8.0,Total,%,15 years old and over
+Jamaica,JM,JAM,388,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+Japan,JP,JPN,392,Labour force unemployment rate,2019,2.0,Female,%,15 years old and over
+Japan,JP,JPN,392,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Japan,JP,JPN,392,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Jordan,JO,JOR,400,Labour force unemployment rate,2019,24.0,Female,%,15 years old and over
+Jordan,JO,JOR,400,Labour force unemployment rate,2022,27.0,Female,%,15 years old and over
+Jordan,JO,JOR,400,Labour force unemployment rate,2019,15.0,Male,%,15 years old and over
+Jordan,JO,JOR,400,Labour force unemployment rate,2022,16.0,Male,%,15 years old and over
+Jordan,JO,JOR,400,Labour force unemployment rate,2019,17.0,Total,%,15 years old and over
+Jordan,JO,JOR,400,Labour force unemployment rate,2022,18.0,Total,%,15 years old and over
+Kazakhstan,KZ,KAZ,398,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Kazakhstan,KZ,KAZ,398,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Kazakhstan,KZ,KAZ,398,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Kenya,KE,KEN,404,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Kenya,KE,KEN,404,Labour force unemployment rate,2021,8.0,Female,%,15 years old and over
+Kenya,KE,KEN,404,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Kenya,KE,KEN,404,Labour force unemployment rate,2021,4.0,Male,%,15 years old and over
+Kenya,KE,KEN,404,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Kenya,KE,KEN,404,Labour force unemployment rate,2021,6.0,Total,%,15 years old and over
+Kiribati,KI,KIR,296,Labour force unemployment rate,2020,12.0,Female,%,15 years old and over
+Kiribati,KI,KIR,296,Labour force unemployment rate,2020,10.0,Male,%,15 years old and over
+Kiribati,KI,KIR,296,Labour force unemployment rate,2020,11.0,Total,%,15 years old and over
+Kuwait,KW,KWT,414,Labour force unemployment rate,2019,6.0,Female,%,15 years old and over
+Kuwait,KW,KWT,414,Labour force unemployment rate,2019,1.0,Male,%,15 years old and over
+Kuwait,KW,KWT,414,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Kyrgyzstan,KG,KGZ,417,Labour force unemployment rate,2019,9.0,Female,%,15 years old and over
+Kyrgyzstan,KG,KGZ,417,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Kyrgyzstan,KG,KGZ,417,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Lao People's Democratic Republic,LA,LAO,418,Labour force unemployment rate,2019,1.0,Female,%,15 years old and over
+Lao People's Democratic Republic,LA,LAO,418,Labour force unemployment rate,2022,1.0,Female,%,15 years old and over
+Lao People's Democratic Republic,LA,LAO,418,Labour force unemployment rate,2019,1.0,Male,%,15 years old and over
+Lao People's Democratic Republic,LA,LAO,418,Labour force unemployment rate,2022,1.0,Male,%,15 years old and over
+Lao People's Democratic Republic,LA,LAO,418,Labour force unemployment rate,2019,1.0,Total,%,15 years old and over
+Lao People's Democratic Republic,LA,LAO,418,Labour force unemployment rate,2022,1.0,Total,%,15 years old and over
+Latvia,LV,LVA,428,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Latvia,LV,LVA,428,Labour force unemployment rate,2023,5.0,Female,%,15 years old and over
+Latvia,LV,LVA,428,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+Latvia,LV,LVA,428,Labour force unemployment rate,2023,8.0,Male,%,15 years old and over
+Latvia,LV,LVA,428,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Latvia,LV,LVA,428,Labour force unemployment rate,2023,6.0,Total,%,15 years old and over
+Lebanon,LB,LBN,422,Labour force unemployment rate,2019,10.0,Female,%,15 years old and over
+Lebanon,LB,LBN,422,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Lebanon,LB,LBN,422,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Lesotho,LS,LSO,426,Labour force unemployment rate,2019,28.0,Female,%,15 years old and over
+Lesotho,LS,LSO,426,Labour force unemployment rate,2019,20.0,Male,%,15 years old and over
+Lesotho,LS,LSO,426,Labour force unemployment rate,2019,24.0,Total,%,15 years old and over
+Liberia,LR,LBR,430,Labour force unemployment rate,2019,2.0,Female,%,15 years old and over
+Liberia,LR,LBR,430,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Liberia,LR,LBR,430,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Libyan Arab Jamahiriya,LY,LBY,434,Labour force unemployment rate,2019,24.0,Female,%,15 years old and over
+Libyan Arab Jamahiriya,LY,LBY,434,Labour force unemployment rate,2019,15.0,Male,%,15 years old and over
+Libyan Arab Jamahiriya,LY,LBY,434,Labour force unemployment rate,2019,18.0,Total,%,15 years old and over
+Lithuania,LT,LTU,440,Labour force unemployment rate,2019,6.0,Female,%,15 years old and over
+Lithuania,LT,LTU,440,Labour force unemployment rate,2023,6.0,Female,%,15 years old and over
+Lithuania,LT,LTU,440,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+Lithuania,LT,LTU,440,Labour force unemployment rate,2023,7.0,Male,%,15 years old and over
+Lithuania,LT,LTU,440,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Lithuania,LT,LTU,440,Labour force unemployment rate,2023,7.0,Total,%,15 years old and over
+Luxembourg,LU,LUX,442,Labour force unemployment rate,2019,6.0,Female,%,15 years old and over
+Luxembourg,LU,LUX,442,Labour force unemployment rate,2023,5.0,Female,%,15 years old and over
+Luxembourg,LU,LUX,442,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Luxembourg,LU,LUX,442,Labour force unemployment rate,2023,5.0,Male,%,15 years old and over
+Luxembourg,LU,LUX,442,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Luxembourg,LU,LUX,442,Labour force unemployment rate,2023,5.0,Total,%,15 years old and over
+Madagascar,MG,MDG,450,Labour force unemployment rate,2019,2.0,Female,%,15 years old and over
+Madagascar,MG,MDG,450,Labour force unemployment rate,2022,3.0,Female,%,15 years old and over
+Madagascar,MG,MDG,450,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Madagascar,MG,MDG,450,Labour force unemployment rate,2022,3.0,Male,%,15 years old and over
+Madagascar,MG,MDG,450,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Madagascar,MG,MDG,450,Labour force unemployment rate,2022,3.0,Total,%,15 years old and over
+Malawi,MW,MWI,454,Labour force unemployment rate,2019,7.0,Female,%,15 years old and over
+Malawi,MW,MWI,454,Labour force unemployment rate,2020,1.0,Female,%,15 years old and over
+Malawi,MW,MWI,454,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Malawi,MW,MWI,454,Labour force unemployment rate,2020,1.0,Male,%,15 years old and over
+Malawi,MW,MWI,454,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Malawi,MW,MWI,454,Labour force unemployment rate,2020,1.0,Total,%,15 years old and over
+Malaysia,MY,MYS,458,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Malaysia,MY,MYS,458,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Malaysia,MY,MYS,458,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Maldives,MV,MDV,462,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Maldives,MV,MDV,462,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Maldives,MV,MDV,462,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Mali,ML,MLI,466,Labour force unemployment rate,2019,8.0,Female,%,15 years old and over
+Mali,ML,MLI,466,Labour force unemployment rate,2022,3.0,Female,%,15 years old and over
+Mali,ML,MLI,466,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+Mali,ML,MLI,466,Labour force unemployment rate,2022,2.0,Male,%,15 years old and over
+Mali,ML,MLI,466,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Mali,ML,MLI,466,Labour force unemployment rate,2022,2.0,Total,%,15 years old and over
+Malta,MT,MLT,470,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Malta,MT,MLT,470,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+Malta,MT,MLT,470,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Malta,MT,MLT,470,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+Malta,MT,MLT,470,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Malta,MT,MLT,470,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+Marshall Islands,MH,MHL,584,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Marshall Islands,MH,MHL,584,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+Marshall Islands,MH,MHL,584,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Mauritania,MR,MRT,478,Labour force unemployment rate,2019,12.0,Female,%,15 years old and over
+Mauritania,MR,MRT,478,Labour force unemployment rate,2019,10.0,Male,%,15 years old and over
+Mauritania,MR,MRT,478,Labour force unemployment rate,2019,10.0,Total,%,15 years old and over
+Mauritius,MU,MUS,480,Labour force unemployment rate,2019,9.0,Female,%,15 years old and over
+Mauritius,MU,MUS,480,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Mauritius,MU,MUS,480,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Mexico,MX,MEX,484,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Mexico,MX,MEX,484,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+Mexico,MX,MEX,484,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Mexico,MX,MEX,484,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+Mexico,MX,MEX,484,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Mexico,MX,MEX,484,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+Mongolia,MN,MNG,496,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Mongolia,MN,MNG,496,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Mongolia,MN,MNG,496,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Mongolia,MN,MNG,496,Labour force unemployment rate,2023,6.0,Male,%,15 years old and over
+Mongolia,MN,MNG,496,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Mongolia,MN,MNG,496,Labour force unemployment rate,2023,5.0,Total,%,15 years old and over
+Montenegro,ME,MNE,499,Labour force unemployment rate,2019,16.0,Female,%,15 years old and over
+Montenegro,ME,MNE,499,Labour force unemployment rate,2020,18.0,Female,%,15 years old and over
+Montenegro,ME,MNE,499,Labour force unemployment rate,2019,15.0,Male,%,15 years old and over
+Montenegro,ME,MNE,499,Labour force unemployment rate,2020,17.0,Male,%,15 years old and over
+Montenegro,ME,MNE,499,Labour force unemployment rate,2019,15.0,Total,%,15 years old and over
+Montenegro,ME,MNE,499,Labour force unemployment rate,2020,18.0,Total,%,15 years old and over
+Morocco,MA,MAR,504,Labour force unemployment rate,2019,11.0,Female,%,15 years old and over
+Morocco,MA,MAR,504,Labour force unemployment rate,2019,9.0,Male,%,15 years old and over
+Morocco,MA,MAR,504,Labour force unemployment rate,2019,9.0,Total,%,15 years old and over
+Mozambique,MZ,MOZ,508,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Mozambique,MZ,MOZ,508,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Mozambique,MZ,MOZ,508,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Myanmar,MM,MMR,104,Labour force unemployment rate,2019,1.0,Female,%,15 years old and over
+Myanmar,MM,MMR,104,Labour force unemployment rate,2020,2.0,Female,%,15 years old and over
+Myanmar,MM,MMR,104,Labour force unemployment rate,2019,0.0,Male,%,15 years old and over
+Myanmar,MM,MMR,104,Labour force unemployment rate,2020,1.0,Male,%,15 years old and over
+Myanmar,MM,MMR,104,Labour force unemployment rate,2019,1.0,Total,%,15 years old and over
+Myanmar,MM,MMR,104,Labour force unemployment rate,2020,1.0,Total,%,15 years old and over
+Namibia,Unknown,NAM,516,Labour force unemployment rate,2019,19.0,Female,%,15 years old and over
+Namibia,Unknown,NAM,516,Labour force unemployment rate,2019,21.0,Male,%,15 years old and over
+Namibia,Unknown,NAM,516,Labour force unemployment rate,2019,20.0,Total,%,15 years old and over
+Nepal,NP,NPL,524,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Nepal,NP,NPL,524,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Nepal,NP,NPL,524,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Netherlands,NL,NLD,528,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Netherlands,NL,NLD,528,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Netherlands,NL,NLD,528,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Netherlands,NL,NLD,528,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+Netherlands,NL,NLD,528,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Netherlands,NL,NLD,528,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+New Zealand,NZ,NZL,554,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+New Zealand,NZ,NZL,554,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+New Zealand,NZ,NZL,554,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Nicaragua,NI,NIC,558,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Nicaragua,NI,NIC,558,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Nicaragua,NI,NIC,558,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Niger,NE,NER,562,Labour force unemployment rate,2019,0.0,Female,%,15 years old and over
+Niger,NE,NER,562,Labour force unemployment rate,2022,0.0,Female,%,15 years old and over
+Niger,NE,NER,562,Labour force unemployment rate,2019,1.0,Male,%,15 years old and over
+Niger,NE,NER,562,Labour force unemployment rate,2022,1.0,Male,%,15 years old and over
+Niger,NE,NER,562,Labour force unemployment rate,2019,1.0,Total,%,15 years old and over
+Niger,NE,NER,562,Labour force unemployment rate,2022,0.0,Total,%,15 years old and over
+Nigeria,NG,NGA,566,Labour force unemployment rate,2019,8.0,Female,%,15 years old and over
+Nigeria,NG,NGA,566,Labour force unemployment rate,2022,5.0,Female,%,15 years old and over
+Nigeria,NG,NGA,566,Labour force unemployment rate,2019,9.0,Male,%,15 years old and over
+Nigeria,NG,NGA,566,Labour force unemployment rate,2022,2.0,Male,%,15 years old and over
+Nigeria,NG,NGA,566,Labour force unemployment rate,2019,9.0,Total,%,15 years old and over
+Nigeria,NG,NGA,566,Labour force unemployment rate,2022,4.0,Total,%,15 years old and over
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Labour force unemployment rate,2019,18.0,Female,%,15 years old and over
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Labour force unemployment rate,2020,16.0,Female,%,15 years old and over
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Labour force unemployment rate,2019,17.0,Male,%,15 years old and over
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Labour force unemployment rate,2020,17.0,Male,%,15 years old and over
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Labour force unemployment rate,2019,17.0,Total,%,15 years old and over
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Labour force unemployment rate,2020,17.0,Total,%,15 years old and over
+Norway,NO,NOR,578,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Norway,NO,NOR,578,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+Norway,NO,NOR,578,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Norway,NO,NOR,578,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+Norway,NO,NOR,578,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Norway,NO,NOR,578,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+Oman,OM,OMN,512,Labour force unemployment rate,2019,7.0,Female,%,15 years old and over
+Oman,OM,OMN,512,Labour force unemployment rate,2019,1.0,Male,%,15 years old and over
+Oman,OM,OMN,512,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Pakistan,PK,PAK,586,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Pakistan,PK,PAK,586,Labour force unemployment rate,2023,9.0,Female,%,15 years old and over
+Pakistan,PK,PAK,586,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Pakistan,PK,PAK,586,Labour force unemployment rate,2023,5.0,Male,%,15 years old and over
+Pakistan,PK,PAK,586,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Pakistan,PK,PAK,586,Labour force unemployment rate,2023,6.0,Total,%,15 years old and over
+Panama,PA,PAN,591,Labour force unemployment rate,2019,6.0,Female,%,15 years old and over
+Panama,PA,PAN,591,Labour force unemployment rate,2023,9.0,Female,%,15 years old and over
+Panama,PA,PAN,591,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Panama,PA,PAN,591,Labour force unemployment rate,2023,5.0,Male,%,15 years old and over
+Panama,PA,PAN,591,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Panama,PA,PAN,591,Labour force unemployment rate,2023,7.0,Total,%,15 years old and over
+Papua New Guinea,PG,PNG,598,Labour force unemployment rate,2019,1.0,Female,%,15 years old and over
+Papua New Guinea,PG,PNG,598,Labour force unemployment rate,2022,2.0,Female,%,15 years old and over
+Papua New Guinea,PG,PNG,598,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Papua New Guinea,PG,PNG,598,Labour force unemployment rate,2022,3.0,Male,%,15 years old and over
+Papua New Guinea,PG,PNG,598,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Papua New Guinea,PG,PNG,598,Labour force unemployment rate,2022,3.0,Total,%,15 years old and over
+Paraguay,PY,PRY,600,Labour force unemployment rate,2019,8.0,Female,%,15 years old and over
+Paraguay,PY,PRY,600,Labour force unemployment rate,2023,7.0,Female,%,15 years old and over
+Paraguay,PY,PRY,600,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Paraguay,PY,PRY,600,Labour force unemployment rate,2023,5.0,Male,%,15 years old and over
+Paraguay,PY,PRY,600,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Paraguay,PY,PRY,600,Labour force unemployment rate,2023,6.0,Total,%,15 years old and over
+Peru,PE,PER,604,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Peru,PE,PER,604,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Peru,PE,PER,604,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Peru,PE,PER,604,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+Peru,PE,PER,604,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Peru,PE,PER,604,Labour force unemployment rate,2023,5.0,Total,%,15 years old and over
+Philippines,PH,PHL,608,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Philippines,PH,PHL,608,Labour force unemployment rate,2022,3.0,Female,%,15 years old and over
+Philippines,PH,PHL,608,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Philippines,PH,PHL,608,Labour force unemployment rate,2022,2.0,Male,%,15 years old and over
+Philippines,PH,PHL,608,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Philippines,PH,PHL,608,Labour force unemployment rate,2022,3.0,Total,%,15 years old and over
+Poland,PL,POL,616,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Poland,PL,POL,616,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+Poland,PL,POL,616,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Poland,PL,POL,616,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+Poland,PL,POL,616,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Poland,PL,POL,616,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+Portugal,PT,PRT,620,Labour force unemployment rate,2019,7.0,Female,%,15 years old and over
+Portugal,PT,PRT,620,Labour force unemployment rate,2023,7.0,Female,%,15 years old and over
+Portugal,PT,PRT,620,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Portugal,PT,PRT,620,Labour force unemployment rate,2023,6.0,Male,%,15 years old and over
+Portugal,PT,PRT,620,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Portugal,PT,PRT,620,Labour force unemployment rate,2023,7.0,Total,%,15 years old and over
+Qatar,QA,QAT,634,Labour force unemployment rate,2019,0.0,Female,%,15 years old and over
+Qatar,QA,QAT,634,Labour force unemployment rate,2019,0.0,Male,%,15 years old and over
+Qatar,QA,QAT,634,Labour force unemployment rate,2019,0.0,Total,%,15 years old and over
+South Korea,KR,KOR,410,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+South Korea,KR,KOR,410,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+South Korea,KR,KOR,410,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+South Korea,KR,KOR,410,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+South Korea,KR,KOR,410,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+South Korea,KR,KOR,410,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+"Moldova, Republic of",MD,MDA,498,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+"Moldova, Republic of",MD,MDA,498,Labour force unemployment rate,2023,1.0,Female,%,15 years old and over
+"Moldova, Republic of",MD,MDA,498,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+"Moldova, Republic of",MD,MDA,498,Labour force unemployment rate,2023,2.0,Male,%,15 years old and over
+"Moldova, Republic of",MD,MDA,498,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+"Moldova, Republic of",MD,MDA,498,Labour force unemployment rate,2023,2.0,Total,%,15 years old and over
+Romania,RO,ROU,642,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Romania,RO,ROU,642,Labour force unemployment rate,2023,5.0,Female,%,15 years old and over
+Romania,RO,ROU,642,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Romania,RO,ROU,642,Labour force unemployment rate,2023,6.0,Male,%,15 years old and over
+Romania,RO,ROU,642,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Romania,RO,ROU,642,Labour force unemployment rate,2023,6.0,Total,%,15 years old and over
+Russian Federation,RU,RUS,643,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Russian Federation,RU,RUS,643,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+Russian Federation,RU,RUS,643,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Russian Federation,RU,RUS,643,Labour force unemployment rate,2023,3.0,Male,%,15 years old and over
+Russian Federation,RU,RUS,643,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Russian Federation,RU,RUS,643,Labour force unemployment rate,2023,3.0,Total,%,15 years old and over
+Rwanda,RW,RWA,646,Labour force unemployment rate,2019,1.0,Female,%,15 years old and over
+Rwanda,RW,RWA,646,Labour force unemployment rate,2023,14.0,Female,%,15 years old and over
+Rwanda,RW,RWA,646,Labour force unemployment rate,2019,1.0,Male,%,15 years old and over
+Rwanda,RW,RWA,646,Labour force unemployment rate,2023,10.0,Male,%,15 years old and over
+Rwanda,RW,RWA,646,Labour force unemployment rate,2019,1.0,Total,%,15 years old and over
+Rwanda,RW,RWA,646,Labour force unemployment rate,2023,12.0,Total,%,15 years old and over
+Saint Lucia,LC,LCA,662,Labour force unemployment rate,2019,17.0,Female,%,15 years old and over
+Saint Lucia,LC,LCA,662,Labour force unemployment rate,2019,14.0,Male,%,15 years old and over
+Saint Lucia,LC,LCA,662,Labour force unemployment rate,2019,16.0,Total,%,15 years old and over
+St. Vincent and the Grenadines,VC,VCT,670,Labour force unemployment rate,2019,17.0,Female,%,15 years old and over
+St. Vincent and the Grenadines,VC,VCT,670,Labour force unemployment rate,2019,20.0,Male,%,15 years old and over
+St. Vincent and the Grenadines,VC,VCT,670,Labour force unemployment rate,2019,19.0,Total,%,15 years old and over
+Samoa,WS,WSM,882,Labour force unemployment rate,2019,10.0,Female,%,15 years old and over
+Samoa,WS,WSM,882,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+Samoa,WS,WSM,882,Labour force unemployment rate,2019,8.0,Total,%,15 years old and over
+Sao Tome and Principe,ST,STP,678,Labour force unemployment rate,2019,21.0,Female,%,15 years old and over
+Sao Tome and Principe,ST,STP,678,Labour force unemployment rate,2019,9.0,Male,%,15 years old and over
+Sao Tome and Principe,ST,STP,678,Labour force unemployment rate,2019,13.0,Total,%,15 years old and over
+Saudi Arabia,SA,SAU,682,Labour force unemployment rate,2019,23.0,Female,%,15 years old and over
+Saudi Arabia,SA,SAU,682,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Saudi Arabia,SA,SAU,682,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Senegal,SN,SEN,686,Labour force unemployment rate,2019,7.0,Female,%,15 years old and over
+Senegal,SN,SEN,686,Labour force unemployment rate,2022,3.0,Female,%,15 years old and over
+Senegal,SN,SEN,686,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Senegal,SN,SEN,686,Labour force unemployment rate,2022,2.0,Male,%,15 years old and over
+Senegal,SN,SEN,686,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Senegal,SN,SEN,686,Labour force unemployment rate,2022,3.0,Total,%,15 years old and over
+Serbia,RS,SRB,688,Labour force unemployment rate,2019,11.0,Female,%,15 years old and over
+Serbia,RS,SRB,688,Labour force unemployment rate,2023,9.0,Female,%,15 years old and over
+Serbia,RS,SRB,688,Labour force unemployment rate,2019,10.0,Male,%,15 years old and over
+Serbia,RS,SRB,688,Labour force unemployment rate,2023,8.0,Male,%,15 years old and over
+Serbia,RS,SRB,688,Labour force unemployment rate,2019,10.0,Total,%,15 years old and over
+Serbia,RS,SRB,688,Labour force unemployment rate,2023,8.0,Total,%,15 years old and over
+Sierra Leone,SL,SLE,694,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Sierra Leone,SL,SLE,694,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Sierra Leone,SL,SLE,694,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Singapore,SG,SGP,702,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Singapore,SG,SGP,702,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Singapore,SG,SGP,702,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Slovakia,SK,SVK,703,Labour force unemployment rate,2019,6.0,Female,%,15 years old and over
+Slovakia,SK,SVK,703,Labour force unemployment rate,2022,6.0,Female,%,15 years old and over
+Slovakia,SK,SVK,703,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Slovakia,SK,SVK,703,Labour force unemployment rate,2022,6.0,Male,%,15 years old and over
+Slovakia,SK,SVK,703,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Slovakia,SK,SVK,703,Labour force unemployment rate,2022,6.0,Total,%,15 years old and over
+Slovenia,SI,SVN,705,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Slovenia,SI,SVN,705,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Slovenia,SI,SVN,705,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Slovenia,SI,SVN,705,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+Slovenia,SI,SVN,705,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Slovenia,SI,SVN,705,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+Solomon Islands,SB,SLB,90,Labour force unemployment rate,2019,1.0,Female,%,15 years old and over
+Solomon Islands,SB,SLB,90,Labour force unemployment rate,2019,1.0,Male,%,15 years old and over
+Solomon Islands,SB,SLB,90,Labour force unemployment rate,2019,1.0,Total,%,15 years old and over
+Somalia,SO,SOM,706,Labour force unemployment rate,2019,24.0,Female,%,15 years old and over
+Somalia,SO,SOM,706,Labour force unemployment rate,2019,16.0,Male,%,15 years old and over
+Somalia,SO,SOM,706,Labour force unemployment rate,2019,19.0,Total,%,15 years old and over
+South Africa,ZA,ZAF,710,Labour force unemployment rate,2019,31.0,Female,%,15 years old and over
+South Africa,ZA,ZAF,710,Labour force unemployment rate,2023,35.0,Female,%,15 years old and over
+South Africa,ZA,ZAF,710,Labour force unemployment rate,2019,27.0,Male,%,15 years old and over
+South Africa,ZA,ZAF,710,Labour force unemployment rate,2023,30.0,Male,%,15 years old and over
+South Africa,ZA,ZAF,710,Labour force unemployment rate,2019,29.0,Total,%,15 years old and over
+South Africa,ZA,ZAF,710,Labour force unemployment rate,2023,32.0,Total,%,15 years old and over
+South Sudan,SS,SSD,728,Labour force unemployment rate,2019,13.0,Female,%,15 years old and over
+South Sudan,SS,SSD,728,Labour force unemployment rate,2019,11.0,Male,%,15 years old and over
+South Sudan,SS,SSD,728,Labour force unemployment rate,2019,12.0,Total,%,15 years old and over
+Spain,ES,ESP,724,Labour force unemployment rate,2019,16.0,Female,%,15 years old and over
+Spain,ES,ESP,724,Labour force unemployment rate,2023,14.0,Female,%,15 years old and over
+Spain,ES,ESP,724,Labour force unemployment rate,2019,13.0,Male,%,15 years old and over
+Spain,ES,ESP,724,Labour force unemployment rate,2023,11.0,Male,%,15 years old and over
+Spain,ES,ESP,724,Labour force unemployment rate,2019,14.0,Total,%,15 years old and over
+Spain,ES,ESP,724,Labour force unemployment rate,2023,12.0,Total,%,15 years old and over
+Sri Lanka,LK,LKA,144,Labour force unemployment rate,2019,7.0,Female,%,15 years old and over
+Sri Lanka,LK,LKA,144,Labour force unemployment rate,2022,6.0,Female,%,15 years old and over
+Sri Lanka,LK,LKA,144,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Sri Lanka,LK,LKA,144,Labour force unemployment rate,2022,4.0,Male,%,15 years old and over
+Sri Lanka,LK,LKA,144,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Sri Lanka,LK,LKA,144,Labour force unemployment rate,2022,5.0,Total,%,15 years old and over
+"Palestinian Territory, Occupied",PS,PSE,275,Labour force unemployment rate,2019,41.0,Female,%,15 years old and over
+"Palestinian Territory, Occupied",PS,PSE,275,Labour force unemployment rate,2023,40.0,Female,%,15 years old and over
+"Palestinian Territory, Occupied",PS,PSE,275,Labour force unemployment rate,2019,21.0,Male,%,15 years old and over
+"Palestinian Territory, Occupied",PS,PSE,275,Labour force unemployment rate,2023,20.0,Male,%,15 years old and over
+"Palestinian Territory, Occupied",PS,PSE,275,Labour force unemployment rate,2019,25.0,Total,%,15 years old and over
+"Palestinian Territory, Occupied",PS,PSE,275,Labour force unemployment rate,2023,24.0,Total,%,15 years old and over
+Sudan,SD,SDN,736,Labour force unemployment rate,2019,29.0,Female,%,15 years old and over
+Sudan,SD,SDN,736,Labour force unemployment rate,2022,14.0,Female,%,15 years old and over
+Sudan,SD,SDN,736,Labour force unemployment rate,2019,11.0,Male,%,15 years old and over
+Sudan,SD,SDN,736,Labour force unemployment rate,2022,6.0,Male,%,15 years old and over
+Sudan,SD,SDN,736,Labour force unemployment rate,2019,17.0,Total,%,15 years old and over
+Sudan,SD,SDN,736,Labour force unemployment rate,2022,8.0,Total,%,15 years old and over
+Suriname,SR,SUR,740,Labour force unemployment rate,2019,11.0,Female,%,15 years old and over
+Suriname,SR,SUR,740,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Suriname,SR,SUR,740,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Sweden,SE,SWE,752,Labour force unemployment rate,2019,7.0,Female,%,15 years old and over
+Sweden,SE,SWE,752,Labour force unemployment rate,2023,8.0,Female,%,15 years old and over
+Sweden,SE,SWE,752,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+Sweden,SE,SWE,752,Labour force unemployment rate,2023,7.0,Male,%,15 years old and over
+Sweden,SE,SWE,752,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Sweden,SE,SWE,752,Labour force unemployment rate,2023,8.0,Total,%,15 years old and over
+Switzerland,CH,CHE,756,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Switzerland,CH,CHE,756,Labour force unemployment rate,2023,4.0,Female,%,15 years old and over
+Switzerland,CH,CHE,756,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Switzerland,CH,CHE,756,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+Switzerland,CH,CHE,756,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Switzerland,CH,CHE,756,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+Syrian Arab Republic,SY,SYR,760,Labour force unemployment rate,2019,20.0,Female,%,15 years old and over
+Syrian Arab Republic,SY,SYR,760,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Syrian Arab Republic,SY,SYR,760,Labour force unemployment rate,2019,8.0,Total,%,15 years old and over
+Tajikistan,TJ,TJK,762,Labour force unemployment rate,2019,5.0,Female,%,15 years old and over
+Tajikistan,TJ,TJK,762,Labour force unemployment rate,2019,8.0,Male,%,15 years old and over
+Tajikistan,TJ,TJK,762,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Thailand,TH,THA,764,Labour force unemployment rate,2019,1.0,Female,%,15 years old and over
+Thailand,TH,THA,764,Labour force unemployment rate,2023,1.0,Female,%,15 years old and over
+Thailand,TH,THA,764,Labour force unemployment rate,2019,1.0,Male,%,15 years old and over
+Thailand,TH,THA,764,Labour force unemployment rate,2023,1.0,Male,%,15 years old and over
+Thailand,TH,THA,764,Labour force unemployment rate,2019,1.0,Total,%,15 years old and over
+Thailand,TH,THA,764,Labour force unemployment rate,2023,1.0,Total,%,15 years old and over
+Timor-Leste,TL,TLS,626,Labour force unemployment rate,2019,6.0,Female,%,15 years old and over
+Timor-Leste,TL,TLS,626,Labour force unemployment rate,2022,2.0,Female,%,15 years old and over
+Timor-Leste,TL,TLS,626,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Timor-Leste,TL,TLS,626,Labour force unemployment rate,2022,2.0,Male,%,15 years old and over
+Timor-Leste,TL,TLS,626,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Timor-Leste,TL,TLS,626,Labour force unemployment rate,2022,2.0,Total,%,15 years old and over
+Togo,TG,TGO,768,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+Togo,TG,TGO,768,Labour force unemployment rate,2022,2.0,Female,%,15 years old and over
+Togo,TG,TGO,768,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Togo,TG,TGO,768,Labour force unemployment rate,2022,2.0,Male,%,15 years old and over
+Togo,TG,TGO,768,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Togo,TG,TGO,768,Labour force unemployment rate,2022,2.0,Total,%,15 years old and over
+Tonga,TO,TON,776,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Tonga,TO,TON,776,Labour force unemployment rate,2021,3.0,Female,%,15 years old and over
+Tonga,TO,TON,776,Labour force unemployment rate,2019,3.0,Male,%,15 years old and over
+Tonga,TO,TON,776,Labour force unemployment rate,2021,2.0,Male,%,15 years old and over
+Tonga,TO,TON,776,Labour force unemployment rate,2019,3.0,Total,%,15 years old and over
+Tonga,TO,TON,776,Labour force unemployment rate,2021,2.0,Total,%,15 years old and over
+Trinidad and Tobago,TT,TTO,780,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+Trinidad and Tobago,TT,TTO,780,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+Trinidad and Tobago,TT,TTO,780,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Tunisia,TN,TUN,788,Labour force unemployment rate,2019,22.0,Female,%,15 years old and over
+Tunisia,TN,TUN,788,Labour force unemployment rate,2023,20.0,Female,%,15 years old and over
+Tunisia,TN,TUN,788,Labour force unemployment rate,2019,12.0,Male,%,15 years old and over
+Tunisia,TN,TUN,788,Labour force unemployment rate,2023,13.0,Male,%,15 years old and over
+Tunisia,TN,TUN,788,Labour force unemployment rate,2019,15.0,Total,%,15 years old and over
+Tunisia,TN,TUN,788,Labour force unemployment rate,2023,15.0,Total,%,15 years old and over
+Turkmenistan,TM,TKM,795,Labour force unemployment rate,2019,2.0,Female,%,15 years old and over
+Turkmenistan,TM,TKM,795,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Turkmenistan,TM,TKM,795,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+Turkey,TR,TUR,792,Labour force unemployment rate,2019,16.0,Female,%,15 years old and over
+Turkey,TR,TUR,792,Labour force unemployment rate,2019,12.0,Male,%,15 years old and over
+Turkey,TR,TUR,792,Labour force unemployment rate,2019,14.0,Total,%,15 years old and over
+Uganda,UG,UGA,800,Labour force unemployment rate,2019,2.0,Female,%,15 years old and over
+Uganda,UG,UGA,800,Labour force unemployment rate,2021,4.0,Female,%,15 years old and over
+Uganda,UG,UGA,800,Labour force unemployment rate,2019,1.0,Male,%,15 years old and over
+Uganda,UG,UGA,800,Labour force unemployment rate,2021,3.0,Male,%,15 years old and over
+Uganda,UG,UGA,800,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Uganda,UG,UGA,800,Labour force unemployment rate,2021,3.0,Total,%,15 years old and over
+Ukraine,UA,UKR,804,Labour force unemployment rate,2019,8.0,Female,%,15 years old and over
+Ukraine,UA,UKR,804,Labour force unemployment rate,2021,10.0,Female,%,15 years old and over
+Ukraine,UA,UKR,804,Labour force unemployment rate,2019,9.0,Male,%,15 years old and over
+Ukraine,UA,UKR,804,Labour force unemployment rate,2021,10.0,Male,%,15 years old and over
+Ukraine,UA,UKR,804,Labour force unemployment rate,2019,8.0,Total,%,15 years old and over
+Ukraine,UA,UKR,804,Labour force unemployment rate,2021,10.0,Total,%,15 years old and over
+United Arab Emirates,AE,ARE,784,Labour force unemployment rate,2019,6.0,Female,%,15 years old and over
+United Arab Emirates,AE,ARE,784,Labour force unemployment rate,2019,1.0,Male,%,15 years old and over
+United Arab Emirates,AE,ARE,784,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+United Kingdom,GB,GBR,826,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+United Kingdom,GB,GBR,826,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+United Kingdom,GB,GBR,826,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+"Tanzania, United Republic of",TZ,TZA,834,Labour force unemployment rate,2019,3.0,Female,%,15 years old and over
+"Tanzania, United Republic of",TZ,TZA,834,Labour force unemployment rate,2020,4.0,Female,%,15 years old and over
+"Tanzania, United Republic of",TZ,TZA,834,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+"Tanzania, United Republic of",TZ,TZA,834,Labour force unemployment rate,2020,2.0,Male,%,15 years old and over
+"Tanzania, United Republic of",TZ,TZA,834,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+"Tanzania, United Republic of",TZ,TZA,834,Labour force unemployment rate,2020,3.0,Total,%,15 years old and over
+United States,US,USA,840,Labour force unemployment rate,2019,4.0,Female,%,15 years old and over
+United States,US,USA,840,Labour force unemployment rate,2023,3.0,Female,%,15 years old and over
+United States,US,USA,840,Labour force unemployment rate,2019,4.0,Male,%,15 years old and over
+United States,US,USA,840,Labour force unemployment rate,2023,4.0,Male,%,15 years old and over
+United States,US,USA,840,Labour force unemployment rate,2019,4.0,Total,%,15 years old and over
+United States,US,USA,840,Labour force unemployment rate,2023,4.0,Total,%,15 years old and over
+Uruguay,UY,URY,858,Labour force unemployment rate,2019,11.0,Female,%,15 years old and over
+Uruguay,UY,URY,858,Labour force unemployment rate,2023,11.0,Female,%,15 years old and over
+Uruguay,UY,URY,858,Labour force unemployment rate,2019,8.0,Male,%,15 years old and over
+Uruguay,UY,URY,858,Labour force unemployment rate,2023,8.0,Male,%,15 years old and over
+Uruguay,UY,URY,858,Labour force unemployment rate,2019,9.0,Total,%,15 years old and over
+Uruguay,UY,URY,858,Labour force unemployment rate,2023,9.0,Total,%,15 years old and over
+Uzbekistan,UZ,UZB,860,Labour force unemployment rate,2019,6.0,Female,%,15 years old and over
+Uzbekistan,UZ,UZB,860,Labour force unemployment rate,2020,8.0,Female,%,15 years old and over
+Uzbekistan,UZ,UZB,860,Labour force unemployment rate,2019,6.0,Male,%,15 years old and over
+Uzbekistan,UZ,UZB,860,Labour force unemployment rate,2020,4.0,Male,%,15 years old and over
+Uzbekistan,UZ,UZB,860,Labour force unemployment rate,2019,6.0,Total,%,15 years old and over
+Uzbekistan,UZ,UZB,860,Labour force unemployment rate,2020,5.0,Total,%,15 years old and over
+Vanuatu,VU,VUT,548,Labour force unemployment rate,2019,1.0,Female,%,15 years old and over
+Vanuatu,VU,VUT,548,Labour force unemployment rate,2020,4.0,Female,%,15 years old and over
+Vanuatu,VU,VUT,548,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Vanuatu,VU,VUT,548,Labour force unemployment rate,2020,4.0,Male,%,15 years old and over
+Vanuatu,VU,VUT,548,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Vanuatu,VU,VUT,548,Labour force unemployment rate,2020,4.0,Total,%,15 years old and over
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Labour force unemployment rate,2019,8.0,Female,%,15 years old and over
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Labour force unemployment rate,2019,7.0,Male,%,15 years old and over
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Labour force unemployment rate,2019,7.0,Total,%,15 years old and over
+Vietnam,VN,VNM,704,Labour force unemployment rate,2019,2.0,Female,%,15 years old and over
+Vietnam,VN,VNM,704,Labour force unemployment rate,2023,2.0,Female,%,15 years old and over
+Vietnam,VN,VNM,704,Labour force unemployment rate,2019,2.0,Male,%,15 years old and over
+Vietnam,VN,VNM,704,Labour force unemployment rate,2023,2.0,Male,%,15 years old and over
+Vietnam,VN,VNM,704,Labour force unemployment rate,2019,2.0,Total,%,15 years old and over
+Vietnam,VN,VNM,704,Labour force unemployment rate,2023,2.0,Total,%,15 years old and over
+Yemen,YE,YEM,887,Labour force unemployment rate,2019,25.0,Female,%,15 years old and over
+Yemen,YE,YEM,887,Labour force unemployment rate,2019,12.0,Male,%,15 years old and over
+Yemen,YE,YEM,887,Labour force unemployment rate,2019,13.0,Total,%,15 years old and over
+Zambia,ZM,ZMB,894,Labour force unemployment rate,2019,13.0,Female,%,15 years old and over
+Zambia,ZM,ZMB,894,Labour force unemployment rate,2022,6.0,Female,%,15 years old and over
+Zambia,ZM,ZMB,894,Labour force unemployment rate,2019,11.0,Male,%,15 years old and over
+Zambia,ZM,ZMB,894,Labour force unemployment rate,2022,6.0,Male,%,15 years old and over
+Zambia,ZM,ZMB,894,Labour force unemployment rate,2019,12.0,Total,%,15 years old and over
+Zambia,ZM,ZMB,894,Labour force unemployment rate,2022,6.0,Total,%,15 years old and over
+Zimbabwe,ZW,ZWE,716,Labour force unemployment rate,2019,6.0,Female,%,15 years old and over
+Zimbabwe,ZW,ZWE,716,Labour force unemployment rate,2023,10.0,Female,%,15 years old and over
+Zimbabwe,ZW,ZWE,716,Labour force unemployment rate,2019,5.0,Male,%,15 years old and over
+Zimbabwe,ZW,ZWE,716,Labour force unemployment rate,2023,9.0,Male,%,15 years old and over
+Zimbabwe,ZW,ZWE,716,Labour force unemployment rate,2019,5.0,Total,%,15 years old and over
+Zimbabwe,ZW,ZWE,716,Labour force unemployment rate,2023,9.0,Total,%,15 years old and over
